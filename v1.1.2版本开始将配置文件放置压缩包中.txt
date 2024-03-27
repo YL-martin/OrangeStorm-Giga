@@ -1,1 +1,0 @@
-v1.1.2版本开始将配置文件放置压缩包giga_extra_update.zip中
